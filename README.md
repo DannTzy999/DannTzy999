@@ -9,8 +9,8 @@
   <a href="https://jiddannajatialfaridzaky.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-jiddannajatialfaridzaky.vercel.app-00D2FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
-  <a href="mailto:jiddannajati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:danzzyt1603@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danzzyt1603%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
